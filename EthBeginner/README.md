@@ -81,4 +81,4 @@ Once the contract is deployed, you can interact with it by calling the functions
 
 ## License
 
-[MIT License](././LICENSE)
+[MIT License](..\LICENSE)
