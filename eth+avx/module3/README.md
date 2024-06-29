@@ -37,5 +37,5 @@ Allows any user to burn (destroy) their own tokens.
 - Token transfers and burning should be handled with care to avoid irreversible actions.
 
 ## License
-[MIT License](../LICENSE)
+[MIT License](../../LICENSE)
 
