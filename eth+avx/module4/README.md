@@ -28,7 +28,7 @@ The smart contract has been deployed to the Avalanche Fuji Testnet for testing p
 The smart contract has been verified on Snowtrace to provide transparency and ensure trustworthiness.
 
 ## Access
-The smart contract address on the Avalanche Fuji Testnet is "0x62B681d584f30ec21701821feFE22d566e349B26". Users can interact with the contract using compatible wallets and dApps.
+The smart contract address on the Avalanche Fuji Testnet is "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266". Users can interact with the contract using compatible wallets and dApps.
 
 ## License
 [MIT License](../../LICENSE)
